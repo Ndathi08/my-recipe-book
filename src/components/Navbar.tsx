@@ -1,7 +1,6 @@
 
 import React, { useState } from "react";
 import Logo from "../assets/Logo.svg";
-import { BsCart2 } from "react-icons/bs";
 import { HiOutlineBars3 } from "react-icons/hi2";
 import Box from "@mui/material/Box";
 import Drawer from "@mui/material/Drawer";
