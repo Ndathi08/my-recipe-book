@@ -13,23 +13,22 @@ const About = () => {
         <img src={AboutBackgroundImage} alt="" />
       </div>
       <div className="about-section-text-container">
-        <p className="primary-subheading">About</p>
-        <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+        <p className="primary-heading">About</p>
+        <h1 className="primary-subheading">
+          Recipes: The Ultimate cullinary  canvas
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        We believe that every person has a unique recipe worth sharing. 
+        Our mission is to provide a vibrant platform for cooks of all levels 
+        to preserve their family traditions, showcase their creativity, and discover new favorites.
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+        Whether it's a cherished family recipe passed down through 
+        generations or an innovative dish that you concocted on a whim,
+        our platform makes it easy for you to share your recipes with the world.
         </p>
         <div className="about-buttons-container">
-          <button className="secondary-button">Learn More</button>
-          <button className="watch-video-button">
-            <BsFillPlayCircleFill /> Watch Video
-          </button>
+          <button className="secondary-button">Explore Recipes</button>
         </div>
       </div>
     </div>
